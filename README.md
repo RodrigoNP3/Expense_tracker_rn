@@ -1,8 +1,8 @@
-# Meals App
+# Expenses Tracker App
 
 Hello there.
-This is a simple App developed in react native.
-This app was developed according to the classes of:
+This is a simple Expenses tracker App developed in react native.
+This app it is being developed according to the classes of:
 
 React Native - The Practical Guide [2022];
 
@@ -10,10 +10,10 @@ React Native - The Practical Guide [2022];
 
 Clone it in your machine:
 ```bash
-git clone https://github.com/RodrigoNP3/Meals_App_rn.git
+git clone https://github.com/RodrigoNP3/Expense_tracker_rn.git
 ```
 
-### Navigation
+<!-- ### Navigation
 
 
 <table>
@@ -78,4 +78,4 @@ git clone https://github.com/RodrigoNP3/Meals_App_rn.git
   <a target="_blank" rel="" href="images/favorites_screen.jpg">
         <img src="images/favorites_screen.jpg" alt="Css Logo" with="400" height="400"/>
 
-  </a></td>
+  </a></td> -->
