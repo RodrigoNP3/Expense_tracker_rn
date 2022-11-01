@@ -13,16 +13,16 @@ Clone it in your machine:
 git clone https://github.com/RodrigoNP3/Expense_tracker_rn.git
 ```
 
-<!-- ### Navigation
+### Navigation
 
 
 <table>
 <thead>
 <tr>
-<th align="center">Main Screen</th>
-<th align="center">Drawer Screen</th>
-<th align="center">Category Meals Screen</th>
-<th align="center">Meal Details Screen</th>
+<th align="center">All Expenses</th>
+<th align="center">Recent Expenses</th>
+<th align="center">Add Expense</th>
+
 
 </tr>
 </thead>
@@ -30,36 +30,33 @@ git clone https://github.com/RodrigoNP3/Expense_tracker_rn.git
 <tr>
   
 <td align="center">
-  <a target="_blank" rel="" href="images/main_screen.jpg">
-        <img src="images/main_screen.jpg" alt="Css Logo" with="200" height="400"/>
+  <a target="_blank" rel="" href="images/all_expenses.jpg">
+        <img src="images/all_expenses.jpg" alt="Css Logo" with="200" height="400"/>
 
   </a></td>
   
 <td align="center">
-  <a target="_blank" rel="" href="images/drawer_screen.jpg">
-        <img src="images/drawer_screen.jpg" alt="Css Logo" with="200" height="400"/>
+  <a target="_blank" rel="" href="images/recent_expenses.jpg">
+        <img src="images/recent_expenses.jpg" alt="Css Logo" with="200" height="400"/>
 
   </a></td>
   
  <td align="center">
-  <a target="_blank" rel="" href="images/category__meals_screen.jpg">
-        <img src="images/category__meals_screen.jpg" alt="Css Logo" with="200" height="400"/>
+  <a target="_blank" rel="" href="images/add_expense.jpg">
+        <img src="images/add_expense.jpg" alt="Css Logo" with="200" height="400"/>
 
   </a></td>
 
-   <td align="center">
-  <a target="_blank" rel="" href="images/meal_deatails_screen.jpg">
-        <img src="images/meal_deatails_screen.jpg" alt="Css Logo" with="200" height="400"/>
 
-  </a></td>
 
   
 
 <table>
 <thead>
 <tr>
-<th align="center">Meal Details Screen</th>
-<th align="center">Favorites Screen</th>
+<th align="center">All Expenses</th>
+<th align="center">Recent Expenses</th>
+<th align="center">Edit Expense</th>
 
 
 </tr>
@@ -68,14 +65,20 @@ git clone https://github.com/RodrigoNP3/Expense_tracker_rn.git
 <tr>
   
 <td align="center">
-  <a target="_blank" rel="" href="images/meal_deatails_screen_1.jpg">
-        <img src="images/meal_deatails_screen_1.jpg" alt="Css Logo" with="400" height="400"/>
+  <a target="_blank" rel="" href="images/all_expenses_2.jpg">
+        <img src="images/all_expenses_2.jpg" alt="Css Logo" with="200" height="400"/>
+
+  </a></td>
+  
+<td align="center">
+  <a target="_blank" rel="" href="images/recent_expenses_2.jpg">
+        <img src="images/recent_expenses_2.jpg" alt="Css Logo" with="200" height="400"/>
+
+  </a></td>
+  
+ <td align="center">
+  <a target="_blank" rel="" href="images/edit_expense.jpg">
+        <img src="images/edit_expense.jpg" alt="Css Logo" with="200" height="400"/>
 
   </a></td>
 
-  
-<td align="center">
-  <a target="_blank" rel="" href="images/favorites_screen.jpg">
-        <img src="images/favorites_screen.jpg" alt="Css Logo" with="400" height="400"/>
-
-  </a></td> -->
